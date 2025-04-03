@@ -23,7 +23,7 @@ reduce turnover costs, and build a more engaged workforce.
 - 🔹 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - 🔹 **Machine Learning Models:** Logistic Regression, Decision Trees, Random Forest, XGBoost  
 - 🔹 **Visualization:** Matplotlib, Seaborn for insightful graphs  
-- 🔹 **Development Tools:** Jupyter Notebook / Streamlit (if applicable)  
+- 🔹 **Development Tools:** Jupyter Notebook / Streamlit  
 
 ---
 
